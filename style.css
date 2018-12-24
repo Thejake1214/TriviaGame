@@ -1,0 +1,28 @@
+.jumbotron {
+    text-align: center;
+    padding: 1px 2px;
+    opacity: .7;
+    color: red;
+    background-color: black;
+}
+
+.btn {
+    font-size: 12pt;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+.answer:hover {
+    background: white;
+}
+
+body {
+    text-align: center;
+    color: red; 
+    background-size: cover;
+    background: url("assets/images/movie-poster.jpg");
+
+}
